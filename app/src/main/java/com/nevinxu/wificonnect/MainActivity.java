@@ -12,7 +12,7 @@ import android.view.View;
 import android.widget.ImageView;
 import android.widget.TextView;
 
-import com.nevinxu.wifiscan.Utils.YueWifiHelper;
+import com.nevinxu.wifiscan.Utils.NevinXuWifiHelper;
 import com.nevinxu.wifiscan.listener.ScanResultListener;
 import com.lee.yuewificonnect.R;
 import com.nevinxu.wificonnect.adapter.WifiAdapter;
@@ -29,7 +29,7 @@ public class MainActivity extends AppCompatActivity implements ScanResultListene
     private ImageView ivScan;
 
     private WifiAdapter adapter;
-    private YueWifiHelper helper;
+    private NevinXuWifiHelper helper;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -37,7 +37,6 @@ public class MainActivity extends AppCompatActivity implements ScanResultListene
 
         setContentView(R.layout.activity_wifi);
         rec = findViewById(R.id.rec);
-
         rec.setLayoutManager(new LinearLayoutManager(this));
 
         adapter = new WifiAdapter();
@@ -45,7 +44,7 @@ public class MainActivity extends AppCompatActivity implements ScanResultListene
 
         tvCurrentWifi = findViewById(R.id.tv_wifi_name);
 
-        helper = new YueWifiHelper(this,this);
+        helper = new NevinXuWifiHelper(this,this);
 
         ivScan = findViewById(R.id.iv_add);
         ivScan.setOnClickListener(new View.OnClickListener() {
@@ -90,7 +89,6 @@ public class MainActivity extends AppCompatActivity implements ScanResultListene
                 }
             });
             helper.filterAndConnectTargetWifi(list,HOTPOINT_NBO,HOTPOINT_PASSWORD,isLastTime);
-
         }
     }
 

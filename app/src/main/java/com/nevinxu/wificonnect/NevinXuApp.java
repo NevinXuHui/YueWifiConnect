@@ -5,14 +5,14 @@ import android.app.Application;
 import android.os.Bundle;
 import android.util.Log;
 
-public class YueApp extends Application {
+public class NevinXuApp extends Application {
     @Override
     public void onCreate() {
         super.onCreate();
        registerActivityLifecycleCallbacks(new ActivityLifecycleCallbacks() {
            @Override
            public void onActivityCreated(Activity activity, Bundle savedInstanceState) {
-               Log.e("YUE","onCreate = "+activity.toString());
+               Log.e("NevinXu","onCreate = "+activity.toString());
            }
 
            @Override

@@ -13,7 +13,7 @@ import com.nevinxu.wifiscan.listener.ScanResultListener;
 import java.lang.ref.WeakReference;
 import java.util.List;
 
-public class YueWifiHelper {
+public class NevinXuWifiHelper {
 
     private WeakReference<AppCompatActivity> mContext;
     private WifiDelegate delegate;
@@ -21,7 +21,7 @@ public class YueWifiHelper {
     private IntentFilter filter;
     private ScanResultListener listener;
 
-    public YueWifiHelper(AppCompatActivity context, ScanResultListener listener){
+    public NevinXuWifiHelper(AppCompatActivity context, ScanResultListener listener){
         init(context,listener);
     }
 
