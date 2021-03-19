@@ -1,0 +1,7 @@
+R_DEF: Internal format may change without notice
+local
+string Wifi_permission
+string app_name
+string permission_request
+string wifi_allow
+string wifi_denial

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Wifi_permission">Please  wifi permission manually</string>
+    <string name="app_name">wifiscan</string>
+    <string name="permission_request">Permission Request</string>
+    <string name="wifi_allow">allow</string>
+    <string name="wifi_denial"> Denial</string>
+</resources>

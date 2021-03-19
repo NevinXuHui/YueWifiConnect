@@ -1,0 +1,4 @@
+#Fri Mar 19 11:22:09 CST 2021
+base.0=F\:\\Code\\YueWifiConnect\\app\\build\\intermediates\\dex\\debug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

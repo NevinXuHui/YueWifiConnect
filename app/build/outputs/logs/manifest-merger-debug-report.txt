@@ -1,0 +1,218 @@
+-- Merging decision tree log ---
+manifest
+ADDED from F:\Code\YueWifiConnect\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from F:\Code\YueWifiConnect\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from F:\Code\YueWifiConnect\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from F:\Code\YueWifiConnect\app\src\main\AndroidManifest.xml:2:1-26:12
+MERGED from [com.android.support:design:28.0.0] D:\android\gradle\caches\transforms-2\files-2.1\eb515d2fc1d7de6a75591f5f5ca7685a\design-28.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [:wifiscan] F:\Code\YueWifiConnect\wifiscan\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] D:\android\gradle\caches\transforms-2\files-2.1\7a0267961822ea042ac6078f884bada9\appcompat-v7-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] D:\android\gradle\caches\transforms-2\files-2.1\edbb8e63df17650af16d17f75d324c76\constraint-layout-1.1.3\AndroidManifest.xml:2:1-11:12
+MERGED from [com.hannesdorfmann:adapterdelegates3:3.1.0] D:\android\gradle\caches\transforms-2\files-2.1\16cd8770533b85a0e9c44a8301b4a6b5\adapterdelegates3-3.1.0\AndroidManifest.xml:2:1-13:12
+MERGED from [android.arch.lifecycle:extensions:1.1.0] D:\android\gradle\caches\transforms-2\files-2.1\e5005ed740d2876870fd2a335ee86fbd\extensions-1.1.0\AndroidManifest.xml:17:1-30:12
+MERGED from [com.android.support:support-fragment:28.0.0] D:\android\gradle\caches\transforms-2\files-2.1\589fbd5c43bc41e675f31977c9deec66\support-fragment-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] D:\android\gradle\caches\transforms-2\files-2.1\817d90f3ccb2c78b0210870fcb0498ca\animated-vector-drawable-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] D:\android\gradle\caches\transforms-2\files-2.1\4fcac67e2975543b739afb6b9c77f16f\recyclerview-v7-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] D:\android\gradle\caches\transforms-2\files-2.1\11e729a2360fa2a9b8df2266ae10d403\support-core-ui-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] D:\android\gradle\caches\transforms-2\files-2.1\c8ef9e7f629a1a70f60d1881b3c5c7ee\support-core-utils-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] D:\android\gradle\caches\transforms-2\files-2.1\5e3b8c266cfcb8424d0a1316badbbe13\support-vector-drawable-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0] D:\android\gradle\caches\transforms-2\files-2.1\808623863747c8a931019eff40c1f46f\transition-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] D:\android\gradle\caches\transforms-2\files-2.1\7e0f31a7a474e82a4e1a231d9ef9d3da\loader-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] D:\android\gradle\caches\transforms-2\files-2.1\17f818553cdb4ea8657ecc06238ef7b5\viewpager-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] D:\android\gradle\caches\transforms-2\files-2.1\413346702c81efc369c969542ec55f30\coordinatorlayout-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] D:\android\gradle\caches\transforms-2\files-2.1\2d4dd96537040abca2dfde5f93c28b19\drawerlayout-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] D:\android\gradle\caches\transforms-2\files-2.1\40dbf908ed06cdb5f4b7f67ff7514c17\slidingpanelayout-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] D:\android\gradle\caches\transforms-2\files-2.1\12d1f36a0897504d984b9f83f5c4b31c\customview-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] D:\android\gradle\caches\transforms-2\files-2.1\1c4d8b779622457cd25420d88a61cd76\swiperefreshlayout-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] D:\android\gradle\caches\transforms-2\files-2.1\76ba9565a592653b4374004169b1d9aa\asynclayoutinflater-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] D:\android\gradle\caches\transforms-2\files-2.1\474c0e3f909f9f09a6adbddeacb7b19d\support-compat-28.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] D:\android\gradle\caches\transforms-2\files-2.1\ec80885021c9c11a52092fe4bfecde82\versionedparcelable-28.0.0\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] D:\android\gradle\caches\transforms-2\files-2.1\f9ade889497f670eb641f4f31c9c4321\cursoradapter-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0] D:\android\gradle\caches\transforms-2\files-2.1\5e49f8265178421b80ec7bb8257c7086\cardview-v7-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] D:\android\gradle\caches\transforms-2\files-2.1\4e2cc221e378a7528ad5c91ee9ab18e1\runtime-1.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] D:\android\gradle\caches\transforms-2\files-2.1\1191e9c3277ba929bc366c3e5e6a1200\documentfile-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] D:\android\gradle\caches\transforms-2\files-2.1\828afef30437f4570fd14eab4eea8e5c\localbroadcastmanager-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] D:\android\gradle\caches\transforms-2\files-2.1\a6d7aa80f59dae39e8e07bb8fd0ab843\print-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] D:\android\gradle\caches\transforms-2\files-2.1\4519d1a8a2e84da9dfd89155e1456106\viewmodel-1.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] D:\android\gradle\caches\transforms-2\files-2.1\29d2d0d6d4d032bd6b5efab5c2b48ac7\interpolator-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] D:\android\gradle\caches\transforms-2\files-2.1\8cb034dbbc34c7fd32894c0f7558db12\livedata-1.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] D:\android\gradle\caches\transforms-2\files-2.1\79361cef439543dbb0b79bf14dad84a3\livedata-core-1.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] D:\android\gradle\caches\transforms-2\files-2.1\a827b75fae2996d779cc285f1f6189bf\runtime-1.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.tbruyelle.rxpermissions2:rxpermissions:0.9.5] D:\android\gradle\caches\transforms-2\files-2.1\3b85123de352889972f5404ec5b45488\rxpermissions-0.9.5\AndroidManifest.xml:2:1-13:12
+INJECTED from F:\Code\YueWifiConnect\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from F:\Code\YueWifiConnect\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from F:\Code\YueWifiConnect\app\src\main\AndroidManifest.xml:2:1-26:12
+	package
+		ADDED from F:\Code\YueWifiConnect\app\src\main\AndroidManifest.xml:3:5-37
+		INJECTED from F:\Code\YueWifiConnect\app\src\main\AndroidManifest.xml
+		INJECTED from F:\Code\YueWifiConnect\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from F:\Code\YueWifiConnect\app\src\main\AndroidManifest.xml
+		ADDED from F:\Code\YueWifiConnect\app\src\main\AndroidManifest.xml:2:1-26:12
+		INJECTED from F:\Code\YueWifiConnect\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from F:\Code\YueWifiConnect\app\src\main\AndroidManifest.xml
+		ADDED from F:\Code\YueWifiConnect\app\src\main\AndroidManifest.xml:2:1-26:12
+		INJECTED from F:\Code\YueWifiConnect\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from F:\Code\YueWifiConnect\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from F:\Code\YueWifiConnect\app\src\main\AndroidManifest.xml:4:5-66
+	android:name
+		ADDED from F:\Code\YueWifiConnect\app\src\main\AndroidManifest.xml:4:22-64
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from F:\Code\YueWifiConnect\app\src\main\AndroidManifest.xml:5:5-76
+	android:name
+		ADDED from F:\Code\YueWifiConnect\app\src\main\AndroidManifest.xml:5:22-73
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from F:\Code\YueWifiConnect\app\src\main\AndroidManifest.xml:6:5-76
+	android:name
+		ADDED from F:\Code\YueWifiConnect\app\src\main\AndroidManifest.xml:6:22-73
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from F:\Code\YueWifiConnect\app\src\main\AndroidManifest.xml:7:5-78
+	android:name
+		ADDED from F:\Code\YueWifiConnect\app\src\main\AndroidManifest.xml:7:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from F:\Code\YueWifiConnect\app\src\main\AndroidManifest.xml:8:5-81
+	android:name
+		ADDED from F:\Code\YueWifiConnect\app\src\main\AndroidManifest.xml:8:22-78
+application
+ADDED from F:\Code\YueWifiConnect\app\src\main\AndroidManifest.xml:9:5-24:19
+MERGED from [com.android.support:design:28.0.0] D:\android\gradle\caches\transforms-2\files-2.1\eb515d2fc1d7de6a75591f5f5ca7685a\design-28.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] D:\android\gradle\caches\transforms-2\files-2.1\eb515d2fc1d7de6a75591f5f5ca7685a\design-28.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] D:\android\gradle\caches\transforms-2\files-2.1\edbb8e63df17650af16d17f75d324c76\constraint-layout-1.1.3\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] D:\android\gradle\caches\transforms-2\files-2.1\edbb8e63df17650af16d17f75d324c76\constraint-layout-1.1.3\AndroidManifest.xml:9:5-20
+MERGED from [com.hannesdorfmann:adapterdelegates3:3.1.0] D:\android\gradle\caches\transforms-2\files-2.1\16cd8770533b85a0e9c44a8301b4a6b5\adapterdelegates3-3.1.0\AndroidManifest.xml:11:5-20
+MERGED from [com.hannesdorfmann:adapterdelegates3:3.1.0] D:\android\gradle\caches\transforms-2\files-2.1\16cd8770533b85a0e9c44a8301b4a6b5\adapterdelegates3-3.1.0\AndroidManifest.xml:11:5-20
+MERGED from [android.arch.lifecycle:extensions:1.1.0] D:\android\gradle\caches\transforms-2\files-2.1\e5005ed740d2876870fd2a335ee86fbd\extensions-1.1.0\AndroidManifest.xml:22:5-28:19
+MERGED from [android.arch.lifecycle:extensions:1.1.0] D:\android\gradle\caches\transforms-2\files-2.1\e5005ed740d2876870fd2a335ee86fbd\extensions-1.1.0\AndroidManifest.xml:22:5-28:19
+MERGED from [com.android.support:support-compat:28.0.0] D:\android\gradle\caches\transforms-2\files-2.1\474c0e3f909f9f09a6adbddeacb7b19d\support-compat-28.0.0\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] D:\android\gradle\caches\transforms-2\files-2.1\474c0e3f909f9f09a6adbddeacb7b19d\support-compat-28.0.0\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] D:\android\gradle\caches\transforms-2\files-2.1\ec80885021c9c11a52092fe4bfecde82\versionedparcelable-28.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] D:\android\gradle\caches\transforms-2\files-2.1\ec80885021c9c11a52092fe4bfecde82\versionedparcelable-28.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.tbruyelle.rxpermissions2:rxpermissions:0.9.5] D:\android\gradle\caches\transforms-2\files-2.1\3b85123de352889972f5404ec5b45488\rxpermissions-0.9.5\AndroidManifest.xml:11:5-20
+MERGED from [com.tbruyelle.rxpermissions2:rxpermissions:0.9.5] D:\android\gradle\caches\transforms-2\files-2.1\3b85123de352889972f5404ec5b45488\rxpermissions-0.9.5\AndroidManifest.xml:11:5-20
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] D:\android\gradle\caches\transforms-2\files-2.1\474c0e3f909f9f09a6adbddeacb7b19d\support-compat-28.0.0\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from F:\Code\YueWifiConnect\app\src\main\AndroidManifest.xml:15:9-35
+	android:label
+		ADDED from F:\Code\YueWifiConnect\app\src\main\AndroidManifest.xml:13:9-41
+	android:roundIcon
+		ADDED from F:\Code\YueWifiConnect\app\src\main\AndroidManifest.xml:14:9-54
+	android:icon
+		ADDED from F:\Code\YueWifiConnect\app\src\main\AndroidManifest.xml:12:9-43
+	android:allowBackup
+		ADDED from F:\Code\YueWifiConnect\app\src\main\AndroidManifest.xml:11:9-35
+	android:theme
+		ADDED from F:\Code\YueWifiConnect\app\src\main\AndroidManifest.xml:16:9-65
+	android:name
+		ADDED from F:\Code\YueWifiConnect\app\src\main\AndroidManifest.xml:10:9-54
+activity#com.nevinxu.wificonnect.MainActivity
+ADDED from F:\Code\YueWifiConnect\app\src\main\AndroidManifest.xml:17:9-23:20
+	android:name
+		ADDED from F:\Code\YueWifiConnect\app\src\main\AndroidManifest.xml:17:19-70
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from F:\Code\YueWifiConnect\app\src\main\AndroidManifest.xml:18:13-22:29
+action#android.intent.action.MAIN
+ADDED from F:\Code\YueWifiConnect\app\src\main\AndroidManifest.xml:19:17-69
+	android:name
+		ADDED from F:\Code\YueWifiConnect\app\src\main\AndroidManifest.xml:19:25-66
+category#android.intent.category.LAUNCHER
+ADDED from F:\Code\YueWifiConnect\app\src\main\AndroidManifest.xml:21:17-77
+	android:name
+		ADDED from F:\Code\YueWifiConnect\app\src\main\AndroidManifest.xml:21:27-74
+uses-sdk
+INJECTED from F:\Code\YueWifiConnect\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from F:\Code\YueWifiConnect\app\src\main\AndroidManifest.xml
+INJECTED from F:\Code\YueWifiConnect\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:28.0.0] D:\android\gradle\caches\transforms-2\files-2.1\eb515d2fc1d7de6a75591f5f5ca7685a\design-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] D:\android\gradle\caches\transforms-2\files-2.1\eb515d2fc1d7de6a75591f5f5ca7685a\design-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [:wifiscan] F:\Code\YueWifiConnect\wifiscan\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:wifiscan] F:\Code\YueWifiConnect\wifiscan\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:28.0.0] D:\android\gradle\caches\transforms-2\files-2.1\7a0267961822ea042ac6078f884bada9\appcompat-v7-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] D:\android\gradle\caches\transforms-2\files-2.1\7a0267961822ea042ac6078f884bada9\appcompat-v7-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] D:\android\gradle\caches\transforms-2\files-2.1\edbb8e63df17650af16d17f75d324c76\constraint-layout-1.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] D:\android\gradle\caches\transforms-2\files-2.1\edbb8e63df17650af16d17f75d324c76\constraint-layout-1.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [com.hannesdorfmann:adapterdelegates3:3.1.0] D:\android\gradle\caches\transforms-2\files-2.1\16cd8770533b85a0e9c44a8301b4a6b5\adapterdelegates3-3.1.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.hannesdorfmann:adapterdelegates3:3.1.0] D:\android\gradle\caches\transforms-2\files-2.1\16cd8770533b85a0e9c44a8301b4a6b5\adapterdelegates3-3.1.0\AndroidManifest.xml:7:5-9:41
+MERGED from [android.arch.lifecycle:extensions:1.1.0] D:\android\gradle\caches\transforms-2\files-2.1\e5005ed740d2876870fd2a335ee86fbd\extensions-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:extensions:1.1.0] D:\android\gradle\caches\transforms-2\files-2.1\e5005ed740d2876870fd2a335ee86fbd\extensions-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] D:\android\gradle\caches\transforms-2\files-2.1\589fbd5c43bc41e675f31977c9deec66\support-fragment-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] D:\android\gradle\caches\transforms-2\files-2.1\589fbd5c43bc41e675f31977c9deec66\support-fragment-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] D:\android\gradle\caches\transforms-2\files-2.1\817d90f3ccb2c78b0210870fcb0498ca\animated-vector-drawable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] D:\android\gradle\caches\transforms-2\files-2.1\817d90f3ccb2c78b0210870fcb0498ca\animated-vector-drawable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] D:\android\gradle\caches\transforms-2\files-2.1\4fcac67e2975543b739afb6b9c77f16f\recyclerview-v7-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] D:\android\gradle\caches\transforms-2\files-2.1\4fcac67e2975543b739afb6b9c77f16f\recyclerview-v7-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] D:\android\gradle\caches\transforms-2\files-2.1\11e729a2360fa2a9b8df2266ae10d403\support-core-ui-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] D:\android\gradle\caches\transforms-2\files-2.1\11e729a2360fa2a9b8df2266ae10d403\support-core-ui-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] D:\android\gradle\caches\transforms-2\files-2.1\c8ef9e7f629a1a70f60d1881b3c5c7ee\support-core-utils-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] D:\android\gradle\caches\transforms-2\files-2.1\c8ef9e7f629a1a70f60d1881b3c5c7ee\support-core-utils-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] D:\android\gradle\caches\transforms-2\files-2.1\5e3b8c266cfcb8424d0a1316badbbe13\support-vector-drawable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] D:\android\gradle\caches\transforms-2\files-2.1\5e3b8c266cfcb8424d0a1316badbbe13\support-vector-drawable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] D:\android\gradle\caches\transforms-2\files-2.1\808623863747c8a931019eff40c1f46f\transition-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] D:\android\gradle\caches\transforms-2\files-2.1\808623863747c8a931019eff40c1f46f\transition-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] D:\android\gradle\caches\transforms-2\files-2.1\7e0f31a7a474e82a4e1a231d9ef9d3da\loader-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] D:\android\gradle\caches\transforms-2\files-2.1\7e0f31a7a474e82a4e1a231d9ef9d3da\loader-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] D:\android\gradle\caches\transforms-2\files-2.1\17f818553cdb4ea8657ecc06238ef7b5\viewpager-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] D:\android\gradle\caches\transforms-2\files-2.1\17f818553cdb4ea8657ecc06238ef7b5\viewpager-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] D:\android\gradle\caches\transforms-2\files-2.1\413346702c81efc369c969542ec55f30\coordinatorlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] D:\android\gradle\caches\transforms-2\files-2.1\413346702c81efc369c969542ec55f30\coordinatorlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] D:\android\gradle\caches\transforms-2\files-2.1\2d4dd96537040abca2dfde5f93c28b19\drawerlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] D:\android\gradle\caches\transforms-2\files-2.1\2d4dd96537040abca2dfde5f93c28b19\drawerlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] D:\android\gradle\caches\transforms-2\files-2.1\40dbf908ed06cdb5f4b7f67ff7514c17\slidingpanelayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] D:\android\gradle\caches\transforms-2\files-2.1\40dbf908ed06cdb5f4b7f67ff7514c17\slidingpanelayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] D:\android\gradle\caches\transforms-2\files-2.1\12d1f36a0897504d984b9f83f5c4b31c\customview-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] D:\android\gradle\caches\transforms-2\files-2.1\12d1f36a0897504d984b9f83f5c4b31c\customview-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] D:\android\gradle\caches\transforms-2\files-2.1\1c4d8b779622457cd25420d88a61cd76\swiperefreshlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] D:\android\gradle\caches\transforms-2\files-2.1\1c4d8b779622457cd25420d88a61cd76\swiperefreshlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] D:\android\gradle\caches\transforms-2\files-2.1\76ba9565a592653b4374004169b1d9aa\asynclayoutinflater-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] D:\android\gradle\caches\transforms-2\files-2.1\76ba9565a592653b4374004169b1d9aa\asynclayoutinflater-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] D:\android\gradle\caches\transforms-2\files-2.1\474c0e3f909f9f09a6adbddeacb7b19d\support-compat-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] D:\android\gradle\caches\transforms-2\files-2.1\474c0e3f909f9f09a6adbddeacb7b19d\support-compat-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] D:\android\gradle\caches\transforms-2\files-2.1\ec80885021c9c11a52092fe4bfecde82\versionedparcelable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] D:\android\gradle\caches\transforms-2\files-2.1\ec80885021c9c11a52092fe4bfecde82\versionedparcelable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] D:\android\gradle\caches\transforms-2\files-2.1\f9ade889497f670eb641f4f31c9c4321\cursoradapter-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] D:\android\gradle\caches\transforms-2\files-2.1\f9ade889497f670eb641f4f31c9c4321\cursoradapter-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] D:\android\gradle\caches\transforms-2\files-2.1\5e49f8265178421b80ec7bb8257c7086\cardview-v7-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] D:\android\gradle\caches\transforms-2\files-2.1\5e49f8265178421b80ec7bb8257c7086\cardview-v7-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] D:\android\gradle\caches\transforms-2\files-2.1\4e2cc221e378a7528ad5c91ee9ab18e1\runtime-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] D:\android\gradle\caches\transforms-2\files-2.1\4e2cc221e378a7528ad5c91ee9ab18e1\runtime-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] D:\android\gradle\caches\transforms-2\files-2.1\1191e9c3277ba929bc366c3e5e6a1200\documentfile-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] D:\android\gradle\caches\transforms-2\files-2.1\1191e9c3277ba929bc366c3e5e6a1200\documentfile-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] D:\android\gradle\caches\transforms-2\files-2.1\828afef30437f4570fd14eab4eea8e5c\localbroadcastmanager-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] D:\android\gradle\caches\transforms-2\files-2.1\828afef30437f4570fd14eab4eea8e5c\localbroadcastmanager-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] D:\android\gradle\caches\transforms-2\files-2.1\a6d7aa80f59dae39e8e07bb8fd0ab843\print-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] D:\android\gradle\caches\transforms-2\files-2.1\a6d7aa80f59dae39e8e07bb8fd0ab843\print-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] D:\android\gradle\caches\transforms-2\files-2.1\4519d1a8a2e84da9dfd89155e1456106\viewmodel-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] D:\android\gradle\caches\transforms-2\files-2.1\4519d1a8a2e84da9dfd89155e1456106\viewmodel-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] D:\android\gradle\caches\transforms-2\files-2.1\29d2d0d6d4d032bd6b5efab5c2b48ac7\interpolator-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] D:\android\gradle\caches\transforms-2\files-2.1\29d2d0d6d4d032bd6b5efab5c2b48ac7\interpolator-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] D:\android\gradle\caches\transforms-2\files-2.1\8cb034dbbc34c7fd32894c0f7558db12\livedata-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] D:\android\gradle\caches\transforms-2\files-2.1\8cb034dbbc34c7fd32894c0f7558db12\livedata-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] D:\android\gradle\caches\transforms-2\files-2.1\79361cef439543dbb0b79bf14dad84a3\livedata-core-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] D:\android\gradle\caches\transforms-2\files-2.1\79361cef439543dbb0b79bf14dad84a3\livedata-core-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] D:\android\gradle\caches\transforms-2\files-2.1\a827b75fae2996d779cc285f1f6189bf\runtime-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] D:\android\gradle\caches\transforms-2\files-2.1\a827b75fae2996d779cc285f1f6189bf\runtime-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.tbruyelle.rxpermissions2:rxpermissions:0.9.5] D:\android\gradle\caches\transforms-2\files-2.1\3b85123de352889972f5404ec5b45488\rxpermissions-0.9.5\AndroidManifest.xml:7:5-9:41
+MERGED from [com.tbruyelle.rxpermissions2:rxpermissions:0.9.5] D:\android\gradle\caches\transforms-2\files-2.1\3b85123de352889972f5404ec5b45488\rxpermissions-0.9.5\AndroidManifest.xml:7:5-9:41
+INJECTED from F:\Code\YueWifiConnect\app\src\main\AndroidManifest.xml
+INJECTED from F:\Code\YueWifiConnect\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from F:\Code\YueWifiConnect\app\src\main\AndroidManifest.xml
+		ADDED from F:\Code\YueWifiConnect\app\src\main\AndroidManifest.xml
+		INJECTED from F:\Code\YueWifiConnect\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from F:\Code\YueWifiConnect\app\src\main\AndroidManifest.xml
+		ADDED from F:\Code\YueWifiConnect\app\src\main\AndroidManifest.xml
+		INJECTED from F:\Code\YueWifiConnect\app\src\main\AndroidManifest.xml
+provider#android.arch.lifecycle.ProcessLifecycleOwnerInitializer
+ADDED from [android.arch.lifecycle:extensions:1.1.0] D:\android\gradle\caches\transforms-2\files-2.1\e5005ed740d2876870fd2a335ee86fbd\extensions-1.1.0\AndroidManifest.xml:23:9-27:43
+	android:authorities
+		ADDED from [android.arch.lifecycle:extensions:1.1.0] D:\android\gradle\caches\transforms-2\files-2.1\e5005ed740d2876870fd2a335ee86fbd\extensions-1.1.0\AndroidManifest.xml:25:13-68
+	android:multiprocess
+		ADDED from [android.arch.lifecycle:extensions:1.1.0] D:\android\gradle\caches\transforms-2\files-2.1\e5005ed740d2876870fd2a335ee86fbd\extensions-1.1.0\AndroidManifest.xml:27:13-40
+	android:exported
+		ADDED from [android.arch.lifecycle:extensions:1.1.0] D:\android\gradle\caches\transforms-2\files-2.1\e5005ed740d2876870fd2a335ee86fbd\extensions-1.1.0\AndroidManifest.xml:26:13-37
+	android:name
+		ADDED from [android.arch.lifecycle:extensions:1.1.0] D:\android\gradle\caches\transforms-2\files-2.1\e5005ed740d2876870fd2a335ee86fbd\extensions-1.1.0\AndroidManifest.xml:24:13-83

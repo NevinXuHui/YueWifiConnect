@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: com.hannesdorfmann:adapterdelegates3:3.1.0@aar">
+    <CLASSES>
+      <root url="jar://D:/android/gradle/caches/transforms-2/files-2.1/16cd8770533b85a0e9c44a8301b4a6b5/adapterdelegates3-3.1.0/jars/classes.jar!/" />
+      <root url="file://D:/android/gradle/caches/transforms-2/files-2.1/16cd8770533b85a0e9c44a8301b4a6b5/adapterdelegates3-3.1.0/res" />
+      <root url="file://D:/android/gradle/caches/transforms-2/files-2.1/16cd8770533b85a0e9c44a8301b4a6b5/adapterdelegates3-3.1.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://D:/android/gradle/caches/modules-2/files-2.1/com.hannesdorfmann/adapterdelegates3/3.1.0/4cdbb057755db6339ca76f6a913a8049500a5662/adapterdelegates3-3.1.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://D:/android/gradle/caches/modules-2/files-2.1/com.hannesdorfmann/adapterdelegates3/3.1.0/1c2d822e1c2ce8624f0c463f411ff4bd82d50bc1/adapterdelegates3-3.1.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
